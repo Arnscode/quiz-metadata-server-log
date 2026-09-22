@@ -14,9 +14,3 @@ is_healthy: bool = True
 
 # Pesan error terakhir, None berarti belum ada error
 last_error: str | None = None
-
-# print(server_name)
-# print(port_number)
-# print(cpu_load)
-# print(is_healthy)
-# print(last_error)
